@@ -1,5 +1,9 @@
 .vscode
 bin
 obj
+<<<<<<< HEAD
 *.db
 appsettings.json
+=======
+*.db
+>>>>>>> 2c505216e8d022af0795e70dcfed9864a9ae08f8
